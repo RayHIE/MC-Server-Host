@@ -2,6 +2,11 @@
 
 A comprehensive Minecraft server management application with an intuitive GUI for creating, configuring, and managing Minecraft servers.
 
+## Requirements
+
+For this application to work, you will need PyQt6 installed.
+`pip install PyQt6`
+
 ## Features
 
 ### Current
